@@ -1,0 +1,1 @@
+Electro Store is an e-commerce website project specializing in selling electronic products such as mobile phones and laptops. With the goal of providing customers with a convenient, diverse, and secure shopping experience, Electro Store is developing with a range of attractive features and services. 
